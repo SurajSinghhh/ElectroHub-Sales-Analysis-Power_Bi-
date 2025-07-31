@@ -26,6 +26,17 @@ To create an interactive dashboard that enables users to:
 - 🏙️ Sales breakdown by **city**
 
 ---
+Visuals :
+
+<img width="2180" height="1260" alt="Screenshot (302)" src="https://github.com/user-attachments/assets/109b055d-25bb-436a-8a99-0188ae5aadea" />
+<img width="520" height="480" alt="Screenshot (303)" src="https://github.com/user-attachments/assets/55529730-38da-4cb7-a456-f500526c1d4b" />
+<img width="520" height="480" alt="image" src="https://github.com/user-attachments/assets/de15089b-57bf-48ff-82b3-3493c97a7148" />
+<img width="520" height="480" alt="Screenshot (305)" src="https://github.com/user-attachments/assets/7058710c-8d30-4df2-8be1-01ddc540c79b" />
+
+
+
+
+
 
 ## 🗂️ Project Files
 
