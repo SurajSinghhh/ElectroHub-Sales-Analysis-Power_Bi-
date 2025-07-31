@@ -4,7 +4,7 @@ This Power BI dashboard project, titled **ElectroHub**, is a complete sales anal
 
 ---
 
-## 🎯 Objective
+ 🎯 Objective
 
 To create an interactive dashboard that enables users to:
 - Track key sales and profit metrics
@@ -15,7 +15,7 @@ To create an interactive dashboard that enables users to:
 
 ---
 
-## 🧠 Key Insights Delivered
+🧠 Key Insights Delivered
 
 - 📈 Top & Bottom 5 Products by **Sales**, **Profit**, and **Units Sold**
 - 📊 Yearly and monthly **sales trends** across 2020–2024
@@ -57,7 +57,7 @@ Visuals :
 
 ---
 
-## 🔢 Summary Metrics
+🔢 Summary Metrics
 
 | Metric             | Value        |
 |--------------------|--------------|
@@ -67,7 +67,7 @@ Visuals :
 | Total Units Sold   | 7,125        |
 
 
-## 👤 About Me
+ 👤 About Me
 
 **Suraj Singh**  
 🎓 MBA in Information Technology  
@@ -78,4 +78,4 @@ Visuals :
 
 ---
 
-> 🚀 This project is part of my personal portfolio, built to demonstrate practical skills in data analysis and business intelligence using Power BI.
+> This project is part of my personal portfolio, built to demonstrate practical skills in data analysis and business intelligence using Power BI.
